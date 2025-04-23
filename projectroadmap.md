@@ -29,3 +29,28 @@ This project uses a Convolutional Neural Network (CNN) to classify scalp images 
 - Adapt the CNN architecture for multiclass detection
 - Train on more diverse datasets
 - Integrate model with front-end interface
+
+
+
+# ScalpScan Project Roadmap
+
+## Sprint 1 Progress
+
+- [x] Project topic approved and team listed
+- [x] GitHub repo created and roles assigned
+- [x] Flask app scaffold created
+- [x] Basic image upload and routing working
+- [x] Predictor module added
+- [x] HTML templates added and tested
+- [x] ScalpSmart repo evaluated and reused
+
+## In Progress
+- [ ] Replace placeholder AI model with trained CNN
+- [ ] Improve frontend with real-time results
+- [ ] Add user image history tracking feature
+
+## Planned Tasks
+- [ ] Train model on new scalp dataset
+- [ ] Integrate Streamlit for faster prototyping
+- [ ] Enable login feature for patient profile saving
+
