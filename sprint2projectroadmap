@@ -1,0 +1,17 @@
+sprint 2 progress
+
+# ScalpScan Project Roadmap
+
+## Planned Tasks
+- [x] Set up GitHub repository and first commit
+- [x] Create alopecia_types.py defining alopecia types
+- [x] Create main.py for initial output
+- [x] Create dummy predict() function
+- [x] List project dependencies in requirements.txt
+- [ ] Build actual AI model for scalp image analysis
+- [ ] Connect FastAPI backend for predictions
+- [ ] Build mobile app interface for users to upload scalp images
+
+## Emerging Tasks
+- [ ] Add support for progress tracking over time
+- [ ] Research scalp image preprocessing techniques for better model accuracy
